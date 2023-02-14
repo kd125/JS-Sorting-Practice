@@ -1112,7 +1112,7 @@ const weatherStates = (array1) => {
   console.log(finalArray);
 };
 
-console.log(weatherStates(weather));
+// console.log(weatherStates(weather));
 
 //find the id of the object in weather that has a min_temp of 15.915
 
@@ -1123,4 +1123,4 @@ const idealTemp = (array1) => {
     }
   }
 };
-console.log(idealTemp(weather));
+// console.log(idealTemp(weather));
